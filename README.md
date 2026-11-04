@@ -11,7 +11,7 @@ so you don't have to maintain the weekday by hand.
 ## Install (BRAT)
 
 1. Install the [BRAT](https://github.com/TfTHacker/obsidian42-brat) plugin.
-2. BRAT → *Add beta plugin* → `MinchinWeb/obsidian-day-of-week-property`.
+2. BRAT → *Add beta plugin* → `minchinweb/obsidian-day-of-week-property`.
 3. Enable **Day of Week Property** in *Settings → Community plugins*.
 
 ## Settings
