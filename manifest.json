@@ -1,0 +1,10 @@
+{
+  "id": "day-of-week-property",
+  "name": "Day of Week Property",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Show a computed, read-only 'Day of the week' row in the Properties panel of notes in chosen folders, without modifying the notes.",
+  "author": "MinchinWeb",
+  "authorUrl": "https://github.com/MinchinWeb",
+  "isDesktopOnly": false
+}

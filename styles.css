@@ -1,0 +1,12 @@
+/* Look and sizing come from Obsidian's own property styles; only make the row read-only. */
+.dowp-wrapper .dowp-property {
+  cursor: default;
+}
+
+.dowp-wrapper .dowp-key {
+  pointer-events: none;
+}
+
+.dowp-wrapper .dowp-value {
+  user-select: text;
+}
